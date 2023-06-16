@@ -1,0 +1,2 @@
+# ADVANCED-SAFE-LOCKER-CONTROLLING-SYSTEM-BY-USING-APPLICATION-AND-IOT
+The project proposes an innovative solution for home security using IoT technology. A unique keyboard with customized input is integrated with an Android app for remote locker access. Users authenticate via username and password, with three chances to unlock. Exceeding attempts leads to a temporary lock. Robust cybersecurity measures are essential.
